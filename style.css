@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    padding: 0;
+    margin: 0;
+}
+
+#navbar{
+    background-color: #222;
+    height: auto;
+    width: 100%;
+   position: sticky;
+   top: 0;
+}
+#navbarText{
+    margin:10px;
+    font-size: x-large;
+    color: white;
+}
+img{
+    width: 100%;
+}
